@@ -1,2 +1,2 @@
 # DS-one
-First rrepo on data science from Harvard x
+First repo on data science from Harvard x
